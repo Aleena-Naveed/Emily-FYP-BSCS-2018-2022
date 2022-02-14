@@ -1,0 +1,16 @@
+.fadein{
+animation: fadeIn 20s;
+padding-left: 20px;
+padding-top: 20px;
+
+}
+@keyframes fadeIn {
+    from{
+    opacity: 0;
+}
+
+to {
+    opacity: 1;
+    
+}
+}

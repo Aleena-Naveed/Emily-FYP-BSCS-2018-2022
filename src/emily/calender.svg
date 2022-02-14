@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="23" viewBox="0 0 27 23">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="27" height="23" transform="translate(726 633)" fill="#1061b0"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-726 -633)" clip-path="url(#clip-path)">
+    <g id="calendar" transform="translate(728 633)">
+      <g id="Group_30" data-name="Group 30">
+        <g id="Group_29" data-name="Group 29">
+          <path id="Path_11" data-name="Path 11" d="M20.3,1.8H19.227V0h-1.8V1.8H5.57V0h-1.8V1.8H2.7A2.7,2.7,0,0,0,0,4.492V20.3A2.7,2.7,0,0,0,2.7,23H20.3A2.7,2.7,0,0,0,23,20.3V4.492A2.7,2.7,0,0,0,20.3,1.8ZM21.2,20.3a.9.9,0,0,1-.9.9H2.7a.9.9,0,0,1-.9-.9V8.445H21.2Zm0-13.656H1.8V4.492a.9.9,0,0,1,.9-.9H3.773v1.8h1.8v-1.8H17.43v1.8h1.8v-1.8H20.3a.9.9,0,0,1,.9.9Z" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_32" data-name="Group 32">
+        <g id="Group_31" data-name="Group 31">
+          <rect id="Rectangle_20" data-name="Rectangle 20" width="1.797" height="1.797" transform="translate(3.414 10.332)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_34" data-name="Group 34">
+        <g id="Group_33" data-name="Group 33">
+          <rect id="Rectangle_21" data-name="Rectangle 21" width="1.797" height="1.797" transform="translate(7.008 10.332)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_36" data-name="Group 36">
+        <g id="Group_35" data-name="Group 35">
+          <rect id="Rectangle_22" data-name="Rectangle 22" width="1.797" height="1.797" transform="translate(10.602 10.332)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_38" data-name="Group 38">
+        <g id="Group_37" data-name="Group 37">
+          <rect id="Rectangle_23" data-name="Rectangle 23" width="1.797" height="1.797" transform="translate(14.195 10.332)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_40" data-name="Group 40">
+        <g id="Group_39" data-name="Group 39">
+          <rect id="Rectangle_24" data-name="Rectangle 24" width="1.797" height="1.797" transform="translate(17.789 10.332)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_42" data-name="Group 42">
+        <g id="Group_41" data-name="Group 41">
+          <rect id="Rectangle_25" data-name="Rectangle 25" width="1.797" height="1.797" transform="translate(3.414 13.926)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_44" data-name="Group 44">
+        <g id="Group_43" data-name="Group 43">
+          <rect id="Rectangle_26" data-name="Rectangle 26" width="1.797" height="1.797" transform="translate(7.008 13.926)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_46" data-name="Group 46">
+        <g id="Group_45" data-name="Group 45">
+          <rect id="Rectangle_27" data-name="Rectangle 27" width="1.797" height="1.797" transform="translate(10.602 13.926)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_48" data-name="Group 48">
+        <g id="Group_47" data-name="Group 47">
+          <rect id="Rectangle_28" data-name="Rectangle 28" width="1.797" height="1.797" transform="translate(14.195 13.926)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_50" data-name="Group 50">
+        <g id="Group_49" data-name="Group 49">
+          <rect id="Rectangle_29" data-name="Rectangle 29" width="1.797" height="1.797" transform="translate(3.414 17.52)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_52" data-name="Group 52">
+        <g id="Group_51" data-name="Group 51">
+          <rect id="Rectangle_30" data-name="Rectangle 30" width="1.797" height="1.797" transform="translate(7.008 17.52)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_54" data-name="Group 54">
+        <g id="Group_53" data-name="Group 53">
+          <rect id="Rectangle_31" data-name="Rectangle 31" width="1.797" height="1.797" transform="translate(10.602 17.52)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_56" data-name="Group 56">
+        <g id="Group_55" data-name="Group 55">
+          <rect id="Rectangle_32" data-name="Rectangle 32" width="1.797" height="1.797" transform="translate(14.195 17.52)" fill="#1061b0"/>
+        </g>
+      </g>
+      <g id="Group_58" data-name="Group 58">
+        <g id="Group_57" data-name="Group 57">
+          <rect id="Rectangle_33" data-name="Rectangle 33" width="1.797" height="1.797" transform="translate(17.789 13.926)" fill="#1061b0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

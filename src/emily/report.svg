@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="46" viewBox="0 0 48 46">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_43" data-name="Rectangle 43" width="48" height="46" transform="translate(12 291)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(-12 -291)" clip-path="url(#clip-path)">
+    <g id="document" transform="translate(11.467 289.467)">
+      <path id="Path_18" data-name="Path 18" d="M39.2,46h-1.63v1.533h2.277A.767.767,0,0,0,40.6,46.9l5.747-33.733L44.835,12.9Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_19" data-name="Path 19" d="M46.9,5.378,37.7,3.756l-.266,1.51,8.449,1.49L45.1,11.371l1.511.258.914-5.367a.767.767,0,0,0-.623-.884Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_20" data-name="Path 20" d="M35.267,1.533H2.3a.767.767,0,0,0-.767.767V33.733H3.067V3.067H34.5V46H3.067V35.267H1.533v11.5a.767.767,0,0,0,.767.767H35.267a.767.767,0,0,0,.767-.767V2.3A.767.767,0,0,0,35.267,1.533Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_21" data-name="Path 21" d="M8.975,27.058,7.891,28.142l2.3,2.3a.767.767,0,0,0,.542.225h.029a.767.767,0,0,0,.553-.267l4.6-5.367-1.164-1L10.69,28.772Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_22" data-name="Path 22" d="M5.367,30.283A2.686,2.686,0,0,0,8.05,32.967h3.833a2.686,2.686,0,0,0,2.683-2.683V29.9H13.033v.383a1.151,1.151,0,0,1-1.15,1.15H8.05a1.151,1.151,0,0,1-1.15-1.15V26.45A1.151,1.151,0,0,1,8.05,25.3H11.5V23.767H8.05A2.686,2.686,0,0,0,5.367,26.45Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_23" data-name="Path 23" d="M8.975,38.558,7.891,39.642l2.3,2.3a.767.767,0,0,0,.542.225h.029a.767.767,0,0,0,.553-.267l4.6-5.367-1.164-1L10.69,40.272Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_24" data-name="Path 24" d="M5.367,41.783A2.686,2.686,0,0,0,8.05,44.467h3.833a2.686,2.686,0,0,0,2.683-2.683V41.4H13.033v.383a1.151,1.151,0,0,1-1.15,1.15H8.05a1.151,1.151,0,0,1-1.15-1.15V37.95A1.151,1.151,0,0,1,8.05,36.8H11.5V35.267H8.05A2.686,2.686,0,0,0,5.367,37.95Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_25" data-name="Path 25" d="M17.633,35.267h11.5V36.8h-11.5Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_26" data-name="Path 26" d="M17.633,39.1h3.833v1.533H17.633Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_27" data-name="Path 27" d="M23,39.1h6.133v1.533H23Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_28" data-name="Path 28" d="M17.633,23.767h11.5V25.3h-11.5Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_29" data-name="Path 29" d="M17.633,27.6h3.833v1.533H17.633Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_30" data-name="Path 30" d="M23,27.6h6.133v1.533H23Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_31" data-name="Path 31" d="M26.36,7.739l-6.89-3.073a.767.767,0,0,0-.624,0l-6.89,3.073a.767.767,0,0,0-.445.819l.574,3.647,0,.018a12.549,12.549,0,0,0,4.95,7.87l1.671,1.231a.767.767,0,0,0,.905,0l1.592-1.158a12.545,12.545,0,0,0,5.015-7.916l0-.018.58-3.676a.767.767,0,0,0-.445-.82Zm-1.648,4.248A11.019,11.019,0,0,1,20.3,18.928l-1.138.828-1.22-.9a11.022,11.022,0,0,1-4.35-6.9L13.116,8.9l6.041-2.695L25.2,8.9Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_32" data-name="Path 32" d="M16.624,11.73,15.54,12.814l2.3,2.3a.767.767,0,0,0,1.084,0l4.6-4.6L22.44,9.43l-4.058,4.058Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_33" data-name="Path 33" d="M5.367,4.6h4.6V6.133h-4.6Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_34" data-name="Path 34" d="M5.367,7.667H8.433V9.2H5.367Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_35" data-name="Path 35" d="M28.367,4.6H29.9V6.133H28.367Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_36" data-name="Path 36" d="M31.433,4.6h1.533V6.133H31.433Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
